@@ -1,2 +1,2 @@
 # Traffic_Simulator
-Using classespolymorphism inheritance etc in c++
+Using classes polymorphism inheritance etc in c++
